@@ -12,6 +12,7 @@ public class MiniProject {
 			System.out.println("3.palindrome Number");
 			System.out.println("4.reverse of a Number");
 			System.out.println("5.Fibanacci series");
+			System.out.println("For git");
 			
 			System.out.println("please select your choice of program: ");
 			
